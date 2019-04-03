@@ -1,4 +1,5 @@
-builid/
+build/
 *.log
+.gradle
 
 
